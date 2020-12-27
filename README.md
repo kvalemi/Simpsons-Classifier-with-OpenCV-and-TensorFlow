@@ -1,6 +1,6 @@
 ## Project Description: 
 
-I obtained an images dataset of the popular TV show The Simpsons and created a very simple classifier using TensorFlow and OpenCV. The model will take as input pictures of Simpson's characters and will predict which character is in the picture. The model was trained in Kaggle's Notebook environment with the help of their powerful GPU's!
+I obtained an images dataset of the popular TV show The Simpsons and created a very simple classifier using TensorFlow and OpenCV. The model will take as input pictures of Simpson's characters and will predict which character is in the picture. The model was trained in Kaggle's Notebook environment with the help of their powerful GPU's.
 
 
 ## How to Build the Project:
